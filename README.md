@@ -10,6 +10,8 @@
 可同时配置多个
 https://www.xxx.com/aa.m3u8 测试.mp4
 https://www.xxx.com/aa.m3u8 测试.mp4
+
+默认下载完成会删除对应的行
 ```
 
 ## 启动
@@ -26,5 +28,5 @@ downloads 目录下
 
 ## 注意
 ```
-upload.sh 目前没有用 如果上传失败 可以使用次脚本 手动执行上传
+upload.sh 目前没有用 如果上传失败 可以使用此脚本 手动执行上传
 ```
